@@ -83,7 +83,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-<<<<<<< HEAD
   flutter_tts:
     dependency: "direct main"
     description:
@@ -92,8 +91,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.2.2"
-=======
->>>>>>> 99b11eb (first commit)
   flutter_web_plugins:
     dependency: transitive
     description: flutter
